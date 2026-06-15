@@ -1,0 +1,9 @@
+{
+  "_id": {
+    "$oid": "6a3052461e755e67afa2540e"
+  },
+  "name": "Luka Grujic",
+  "adresse": "Bahnhofstrasse 12, 8001 Zuerich",
+  "groesse": 181,
+  "geburtsdatum": "2005-03-14"
+}
