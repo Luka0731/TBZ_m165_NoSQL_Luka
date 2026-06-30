@@ -7,7 +7,7 @@ This is my repository for exersises of the Modul 165 about NoSQL.
 * [KN-M-02](/01%20-%20Kns/KN-M-02/README.md)
 * [KN-M-03](/01%20-%20Kns/KN-M-03/README.md) 
 * [KN-M-04](/01%20-%20Kns/KN-M-04/README.md)
-* [KN-M-05](/01%20-%20Kns/KN-M-05/README.md) --- Progression ---
+* [KN-M-05](/01%20-%20Kns/KN-M-05/README.md) 
 #### Graph-Database
 * [KN-N-01](/01%20-%20Kns/KN-N-01/README.md)
 * [KN-N-02](/01%20-%20Kns/KN-N-02/README.md)

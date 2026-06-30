@@ -22,7 +22,7 @@
 ### Screenshot
 ![Bild](../../02%20-%20Resources/01%20-%20Images/kn-m-04__b1.jpg)
 No result could be completly shown in one image, so here is one wrighten down:
-```json
+```javascript
 {
   _id: ObjectId('6a43968c9e9db516a60c804a'),
   title: 'Stomach Book - Sophmore Slump Callithump, mint condition',
